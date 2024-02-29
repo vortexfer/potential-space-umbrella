@@ -1,0 +1,119 @@
+texture: 8534b17d2d3b5a64c57f5f080dd777945761d9f71d82e8f599f242976e4d0c05
+name: '&1Blue LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : POLAR_BEAR : 1'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 4'
+  - 'ITEM : PINK_SHULKER_BOX : 1 : 0'
+  '1':
+  - 'ITEM : HONEY_BLOCK : 16 : 0'
+  - 'ITEM : BREAD : 22 : 0'
+  - 'ENTITY : AXOLOTL : 1'
+  '2':
+  - 'ITEM : SUSPICIOUS_SAND : 32 : 0'
+  - 'ENTITY : DRAGON_FIREBALL : 4'
+  '3':
+  - 'ITEM : BEACON : 8 : 0'
+  - 'ITEM : LIGHT_BLUE_BANNER : 16 : 0'
+  '4':
+  - 'ENTITY : BLOCK_DISPLAY : 3'
+  - 'ITEM : HOGLIN_SPAWN_EGG : 28 : 0'
+  '5':
+  - 'ITEM : STRIPPED_SPRUCE_LOG : 8 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '6':
+  - 'ENTITY : EGG : 1'
+  - 'ITEM : DEEPSLATE_GOLD_ORE : 8 : 0'
+  - 'ITEM : REDSTONE_TORCH : 32 : 0'
+  '7':
+  - 'LUCKY_BLOCK_ITEM : PINK : 1'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 1'
+  - 'SPECIAL : PIG : 16'
+  - 'ENTITY : PRIMED_TNT : 4'
+  '8':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '9':
+  - 'ITEM : WHITE_TULIP : 8 : 0'
+  - 'ENTITY : PUFFERFISH : 2'
+  - 'ENTITY : FROG : 4'
+  '10':
+  - 'ENTITY : WANDERING_TRADER : 3'
+  - 'ENTITY : MARKER : 1'
+  - 'ENTITY : MINECART : 3'
+  '11':
+  - 'ITEM : WITHER_ROSE : 8 : 0'
+  '12':
+  - 'ITEM : LODESTONE : 32 : 0'
+  - 'ENTITY : SALMON : 2'
+  - 'ITEM : LEATHER_CHESTPLATE : 1 : 0'
+  - 'ENTITY : VILLAGER : 2'
+  '13':
+  - 'ENTITY : WITHER_SKULL : 2'
+  - 'ITEM : BROWN_STAINED_GLASS : 8 : 0'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : ICED : 1'
+  - 'ENTITY : CHEST_BOAT : 1'
+  '15':
+  - 'ITEM : NAUTILUS_SHELL : 3 : 0'
+  - 'ENTITY : PIGLIN_BRUTE : 4'
+  - 'ITEM : SNOW : 8 : 0'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : GREEN : 4'
+  '17':
+  - 'ITEM : WILD_ARMOR_TRIM_SMITHING_TEMPLATE : 31 : 0'
+  - 'ITEM : WARPED_NYLIUM : 32 : 0'
+  - 'ITEM : GREEN_BED : 1 : 0'
+  '18':
+  - 'ENTITY : OCELOT : 4'
+  - 'ITEM : PIGLIN_BANNER_PATTERN : 1 : 0'
+  - 'ITEM : OAK_DOOR : 16 : 0'
+  '19':
+  - 'ITEM : BURN_POTTERY_SHERD : 27 : 0'
+  - 'ITEM : CHERRY_BUTTON : 32 : 0'
+  - 'ENTITY : SKELETON_HORSE : 2'
+  '20':
+  - 'ENTITY : EGG : 1'
+  - 'ITEM : TROPICAL_FISH_SPAWN_EGG : 9 : 0'
+  - 'ITEM : IRON_LEGGINGS : 1 : 0'
+  '21':
+  - 'ITEM : MAGENTA_STAINED_GLASS_PANE : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  '22':
+  - 'ITEM : RED_TULIP : 32 : 0'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  - 'ENTITY : ZOMBIE : 2'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 2'
+  '24':
+  - 'ITEM : FILLED_MAP : 27 : 0'
+  - 'ENTITY : MINECART_CHEST : 1'
+  '25':
+  - 'ENTITY : BOAT : 3'
+  - 'ENTITY : SPECTRAL_ARROW : 4'
+  - 'ENTITY : MINECART_TNT : 2'
+  - 'ITEM : STONE_SHOVEL : 1 : 0'
+  '26':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : BOOK : 9 : 0'
+  '27':
+  - 'ITEM : JIGSAW : 8 : 0'
+  - 'ENTITY : ENDER_SIGNAL : 1'
+  '28':
+  - 'ITEM : PINK_DYE : 59 : 0'
+  '29':
+  - 'ITEM : RED_TULIP : 16 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '30':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : COBBLED_DEEPSLATE : 16 : 0'

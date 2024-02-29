@@ -1,0 +1,170 @@
+texture: 11a367164bc6852c8f078811de7baacaefd6964960ebff1fa504c7b4b1298a52
+name: '&dPink LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : THROWN_EXP_BOTTLE : 2'
+  - 'ITEM : BEETROOT : 63 : 0'
+  '1':
+  - 'ITEM : DEEPSLATE_GOLD_ORE : 64 : 0'
+  '2':
+  - 'ENTITY : SPECTRAL_ARROW : 4'
+  - 'ITEM : BROWN_MUSHROOM_BLOCK : 16 : 0'
+  - 'ITEM : DEEPSLATE_COPPER_ORE : 16 : 0'
+  '3':
+  - 'ITEM : PINK_CONCRETE : 64 : 0'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 3'
+  - 'ITEM : SMOOTH_QUARTZ_SLAB : 64 : 0'
+  - 'ENTITY : SILVERFISH : 1'
+  '4':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : CARROT_ON_A_STICK : 1 : 0'
+  - 'ITEM : CYAN_CONCRETE : 16 : 0'
+  '5':
+  - 'ENTITY : SPIDER : 1'
+  - 'ITEM : DEAD_TUBE_CORAL_FAN : 16 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '6':
+  - 'ITEM : LIGHT_BLUE_SHULKER_BOX : 1 : 0'
+  - 'ITEM : CUT_COPPER_SLAB : 64 : 0'
+  - 'ENTITY : FROG : 3'
+  '7':
+  - 'ITEM : LIGHT_GRAY_GLAZED_TERRACOTTA : 16 : 0'
+  - 'SPECIAL : PIG : 4'
+  '8':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 3'
+  - 'ENTITY : LLAMA : 2'
+  '9':
+  - 'ITEM : JUNGLE_PLANKS : 64 : 0'
+  '10':
+  - 'ITEM : LIGHT_GRAY_STAINED_GLASS_PANE : 8 : 0'
+  - 'ENTITY : MULE : 2'
+  - 'ITEM : PINK_STAINED_GLASS : 32 : 0'
+  '11':
+  - 'ENTITY : GOAT : 1'
+  - 'ITEM : PINK_GLAZED_TERRACOTTA : 32 : 0'
+  '12':
+  - 'ENTITY : ELDER_GUARDIAN : 4'
+  '13':
+  - 'ENTITY : CHICKEN : 4'
+  - 'ITEM : LIGHT_GRAY_CONCRETE_POWDER : 8 : 0'
+  '14':
+  - 'ITEM : COPPER_INGOT : 49 : 0'
+  - 'ENTITY : DROWNED : 3'
+  - 'ITEM : STRIPPED_OAK_LOG : 16 : 0'
+  '15':
+  - 'ITEM : STRAY_SPAWN_EGG : 44 : 0'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 2'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 2'
+  - 'ENTITY : SKELETON : 3'
+  '16':
+  - 'ITEM : POLISHED_DIORITE : 16 : 0'
+  - 'ENTITY : MARKER : 4'
+  - 'ENTITY : PHANTOM : 2'
+  '17':
+  - 'ENTITY : SPIDER : 1'
+  - 'ITEM : LIGHT_GRAY_BED : 1 : 0'
+  '18':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 4'
+  - 'ENTITY : WITHER_SKELETON : 1'
+  - 'ITEM : BAMBOO_PLANKS : 8 : 0'
+  - 'ENTITY : SHULKER_BULLET : 2'
+  '19':
+  - 'SPECIAL : PIG : 4'
+  - 'ENTITY : ARMOR_STAND : 3'
+  - 'ITEM : DARK_OAK_CHEST_BOAT : 1 : 0'
+  '20':
+  - 'ITEM : MANGROVE_BOAT : 1 : 0'
+  - 'ITEM : NETHER_SPROUTS : 32 : 0'
+  - 'ENTITY : DOLPHIN : 3'
+  '21':
+  - 'ENTITY : GHAST : 2'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 4'
+  - 'ENTITY : MARKER : 3'
+  '22':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  - 'ITEM : ARCHER_POTTERY_SHERD : 59 : 0'
+  - 'ITEM : CYAN_STAINED_GLASS : 8 : 0'
+  '23':
+  - 'ENTITY : ZOMBIE_HORSE : 3'
+  - 'ENTITY : THROWN_EXP_BOTTLE : 3'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 2'
+  - 'ITEM : BONE_BLOCK : 32 : 0'
+  '24':
+  - 'ENTITY : WARDEN : 3'
+  - 'ITEM : BEACON : 16 : 0'
+  - 'ITEM : SHULKER_SPAWN_EGG : 61 : 0'
+  '25':
+  - 'ITEM : BLACK_CARPET : 8 : 0'
+  - 'ITEM : ORANGE_CONCRETE_POWDER : 64 : 0'
+  '26':
+  - 'ITEM : NETHER_BRICKS : 16 : 0'
+  - 'ITEM : OAK_FENCE_GATE : 64 : 0'
+  - 'ENTITY : ENDER_SIGNAL : 1'
+  '27':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : WARPED_SLAB : 32 : 0'
+  '28':
+  - 'ITEM : END_CRYSTAL : 61 : 0'
+  - 'ITEM : WARPED_FENCE : 8 : 0'
+  - 'ENTITY : ENDER_PEARL : 1'
+  '29':
+  - 'ITEM : FIREWORK_ROCKET : 6 : 0'
+  '30':
+  - 'ITEM : ALLIUM : 64 : 0'
+  - 'ENTITY : CREEPER : 2'
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '31':
+  - 'ITEM : EMERALD_BLOCK : 32 : 0'
+  - 'ENTITY : MINECART_MOB_SPAWNER : 4'
+  '32':
+  - 'ITEM : PAINTING : 21 : 0'
+  - 'ENTITY : ENDER_CRYSTAL : 1'
+  '33':
+  - 'ENTITY : BAT : 1'
+  - 'ENTITY : MINECART_MOB_SPAWNER : 3'
+  - 'ITEM : DOLPHIN_SPAWN_EGG : 25 : 0'
+  - 'ENTITY : THROWN_EXP_BOTTLE : 1'
+  '34':
+  - 'ITEM : YELLOW_CANDLE : 64 : 0'
+  - 'ITEM : PLAYER_HEAD : 16 : 0'
+  - 'ENTITY : SHEEP : 1'
+  - 'ENTITY : VINDICATOR : 3'
+  '35':
+  - 'ENTITY : SPECTRAL_ARROW : 4'
+  - 'ITEM : GRASS : 32 : 0'
+  '36':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : ZOMBIE : 1'
+  - 'ENTITY : BLAZE : 1'
+  '37':
+  - 'ENTITY : ZOMBIE_VILLAGER : 2'
+  '38':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 1'
+  - 'ENTITY : ITEM_DISPLAY : 4'
+  '39':
+  - 'ENTITY : WARDEN : 4'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  '40':
+  - 'ITEM : BAMBOO_TRAPDOOR : 32 : 0'
+  - 'ITEM : MELON : 8 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : RAVAGER : 1'
+  '41':
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 4'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 4'
+  '42':
+  - 'ITEM : RED_GLAZED_TERRACOTTA : 16 : 0'
+  - 'ENTITY : BLOCK_DISPLAY : 2'

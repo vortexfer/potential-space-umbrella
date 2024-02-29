@@ -1,0 +1,77 @@
+texture: d019fe633a45fc3d353f9a2f09fd88e721de31c2bc969ae0aeeadf57c1be0bcc
+name: '&7Light gray LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : SMOKER : 64 : 0'
+  '1':
+  - 'ENTITY : VILLAGER : 4'
+  '2':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 4'
+  '3':
+  - 'ITEM : OAK_WOOD : 8 : 0'
+  '4':
+  - 'SPECIAL : PIG : 22'
+  - 'ITEM : OCHRE_FROGLIGHT : 32 : 0'
+  - 'ENTITY : MUSHROOM_COW : 2'
+  '5':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : FLOWERING_AZALEA : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  '6':
+  - 'ITEM : PUFFERFISH_BUCKET : 1 : 0'
+  - 'ENTITY : VEX : 2'
+  '7':
+  - 'ITEM : MANGROVE_LOG : 16 : 0'
+  '8':
+  - 'ENTITY : ILLUSIONER : 4'
+  - 'ENTITY : ENDERMAN : 4'
+  - 'ITEM : WHITE_TERRACOTTA : 16 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '9':
+  - 'ENTITY : DRAGON_FIREBALL : 1'
+  - 'ITEM : ENDERMITE_SPAWN_EGG : 59 : 0'
+  '10':
+  - 'ENTITY : SALMON : 1'
+  - 'ITEM : DARK_OAK_CHEST_BOAT : 1 : 0'
+  - 'ITEM : COBBLED_DEEPSLATE_SLAB : 64 : 0'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  - 'ITEM : BIRCH_FENCE : 32 : 0'
+  '12':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : MUSIC_DISC_BLOCKS : 1 : 0'
+  '13':
+  - 'ENTITY : SPECTRAL_ARROW : 4'
+  - 'ENTITY : BLAZE : 1'
+  '14':
+  - 'ITEM : MANGROVE_LEAVES : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 1'
+  '15':
+  - 'ITEM : SPRUCE_SIGN : 16 : 0'
+  - 'ITEM : WAXED_CUT_COPPER : 16 : 0'
+  '16':
+  - 'ENTITY : ENDER_CRYSTAL : 3'
+  '17':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  '18':
+  - 'ITEM : WAXED_WEATHERED_CUT_COPPER : 32 : 0'
+  - 'LUCKY_BLOCK_ITEM : RED : 2'
+  - 'ITEM : MAGENTA_STAINED_GLASS_PANE : 8 : 0'
+  '19':
+  - 'ITEM : VILLAGER_SPAWN_EGG : 15 : 0'
+  - 'ENTITY : COD : 2'
+  - 'ITEM : RESPAWN_ANCHOR : 16 : 0'
+  '20':
+  - 'ITEM : LIME_GLAZED_TERRACOTTA : 64 : 0'
+  - 'ITEM : MUSIC_DISC_CHIRP : 1 : 0'

@@ -1,0 +1,93 @@
+texture: b03f5a9bc719cd1127be0954c73cd5714ecd478dad880ef2b9979c481097e6be
+name: '&aLime LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : LIGHT_BLUE_CARPET : 16 : 0'
+  - 'ENTITY : COD : 4'
+  '1':
+  - 'ENTITY : EVOKER : 2'
+  - 'ITEM : STONECUTTER : 16 : 0'
+  '2':
+  - 'ENTITY : AXOLOTL : 2'
+  - 'ITEM : GREEN_DYE : 27 : 0'
+  '3':
+  - 'ITEM : RED_CANDLE : 16 : 0'
+  - 'SPECIAL : PIG : 4'
+  '4':
+  - 'ITEM : YELLOW_CANDLE : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '5':
+  - 'ITEM : MELON_SLICE : 58 : 0'
+  '6':
+  - 'ENTITY : SPECTRAL_ARROW : 3'
+  - 'ENTITY : GHAST : 1'
+  '7':
+  - 'ENTITY : TURTLE : 3'
+  '8':
+  - 'ENTITY : PHANTOM : 4'
+  - 'ITEM : POLISHED_BLACKSTONE_BRICK_WALL : 16 : 0'
+  - 'ITEM : SALMON : 52 : 0'
+  '9':
+  - 'ITEM : BRUSH : 1 : 0'
+  '10':
+  - 'ITEM : HEAVY_WEIGHTED_PRESSURE_PLATE : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 2'
+  - 'ENTITY : EVOKER_FANGS : 2'
+  '11':
+  - 'ENTITY : AXOLOTL : 3'
+  - 'ITEM : REINFORCED_DEEPSLATE : 32 : 0'
+  - 'ENTITY : FOX : 1'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '12':
+  - 'ITEM : BOOKSHELF : 64 : 0'
+  - 'ITEM : RABBIT : 3 : 0'
+  - 'SPECIAL : PIG : 6'
+  '13':
+  - 'ITEM : CHORUS_FLOWER : 64 : 0'
+  - 'ENTITY : FIREBALL : 2'
+  - 'ITEM : PINK_PETALS : 64 : 0'
+  '14':
+  - 'ENTITY : BLOCK_DISPLAY : 1'
+  - 'ENTITY : MINECART_HOPPER : 3'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 2'
+  - 'ITEM : RED_WOOL : 8 : 0'
+  '15':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  - 'ITEM : MELON : 32 : 0'
+  '17':
+  - 'ENTITY : DRAGON_FIREBALL : 3'
+  - 'ENTITY : BEE : 1'
+  - 'ITEM : SKULL_BANNER_PATTERN : 1 : 0'
+  '18':
+  - 'ITEM : IRON_BOOTS : 1 : 0'
+  - 'ITEM : LIGHT_GRAY_CARPET : 64 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : PINK_GLAZED_TERRACOTTA : 32 : 0'
+  '19':
+  - 'ITEM : HONEY_BOTTLE : 14 : 0'
+  '20':
+  - 'ENTITY : PIG : 3'
+  - 'ITEM : COMMAND_BLOCK : 8 : 0'
+  '21':
+  - 'ITEM : DARK_OAK_FENCE_GATE : 16 : 0'
+  '22':
+  - 'ENTITY : SNOWMAN : 3'
+  - 'ITEM : ORANGE_BED : 1 : 0'
+  '23':
+  - 'ENTITY : STRAY : 4'
+  - 'ENTITY : ARMOR_STAND : 4'
+  '24':
+  - 'ITEM : ALLAY_SPAWN_EGG : 38 : 0'
+  - 'ITEM : REDSTONE_TORCH : 32 : 0'

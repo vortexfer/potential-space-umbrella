@@ -1,0 +1,87 @@
+Config:
+  update_notification: true
+  data_save_time: 5
+  register_commands:
+  - hello
+  to_condition_groups:
+    group1:
+    - '%player_has_permission_conditionalevents.somepermission% == yes'
+  debug_actions: true
+Messages:
+  prefix: '&4[&bConditionalEvents&4] '
+  commandReload: '&aConfig Reloaded.'
+  commandNoPermissions: '&cYou don''t have permissions to use this command.'
+  commandResetError: '&cUse &7/ce reset <player> <event>/all'
+  eventDoesNotExists: '&cThat event doesn''t exists on the config.'
+  eventDataReset: '&aData reset for player &e%player% &aon event &e%event%&a!'
+  eventDataResetAll: '&aAll data reset for player &e%player%&a!'
+  eventEnableError: '&cUse &7/ce enable <event>'
+  eventDisableError: '&cUse &7/ce disable <event>'
+  eventEnabled: '&aEvent &7%event% &aenabled.'
+  eventDisabled: '&aEvent &7%event% &adisabled.'
+  commandDebugError: '&cUse &7/ce debug <event>'
+  debugEnabled: '&aDebug now enabled for event &7%event%&a!'
+  debugDisabled: '&aDebug disabled for event &7%event%&a!'
+  onlyPlayerCommand: '&cThis command can be only used by a player.'
+  playerDoesNotExists: '&cThat player doesn''t have any data.'
+  seconds: s
+  minutes: 30m
+  hours: 2h
+  days: d
+  placeholderAPICooldownReady: Ready!
+  placeholderAPICooldownNameError: No event with that name!
+  commandCallCorrectPlayer: '&aEvent &7%event% &asuccessfully executed for player
+    &7%player%&a.'
+  playerNotOnline: '&cThat player is not online.'
+  debugEnabledPlayer: '&aDebug now enabled for event &7%event% &aand player &7%player%&a!'
+  debugDisabledPlayer: '&aDebug disabled for event &7%event% &aand player &7%player%&a!'
+  eventDataResetForAllPlayers: '&aData reset for &eall players &aon event &e%event%&a!'
+  eventDataResetAllForAllPlayers: '&aAll player data reset.'
+  commandCallError: '&cUse &7/ce call <event> (optional)%variable1%=<value1>;%variableN%=<valueN>'
+  commandCallInvalidEvent: '&cYou can only execute a CALL event.'
+  commandCallCorrect: '&aEvent &7%event% &asuccessfully executed.'
+  commandCallFailed: '&cEvent &7%event% &ccould not be executed. Maybe a format error?'
+Events:
+  playerDeath:
+    type: player_death
+    conditions:
+    - '%objective_score_{vidas}% == 1 execute action2'
+    actions:
+      default:
+      - 'console_command: minecraft:scoreboard players remove %player% vidas 1'
+      - 'to_all: message: &fHa &a%player% &fle quedan &c%objective_score_{vidas}%
+        vidas.'
+      action2:
+      - 'console_command: gamemode spectator %player%'
+      - 'to_all: message: &f¡&a%player% &fse ha queado sin &cvidas&f!'
+      - 'wait: 10'
+      - 'console_command: ban %player% "TE QUEDASTE SIN VIDAS"'
+  firstJoin:
+    type: player_join
+    conditions:
+    - '%objective_score_{vidas}% == 0'
+    actions:
+      default:
+      - 'console_command: minecraft:scoreboard players set %player% vidas 3'
+  pvpOn:
+    type: player_command
+    conditions:
+    - '%main_command% == /pvpon'
+    - '%player% == itssos'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'to_all: player_command_as_op: pvp on'
+      - 'to_all: message: &f&l¡El &c&lPVP &f&lha sido &a&lACTIVADO!'
+      - 'to_all: playsound: ENTITY_ELDER_GUARDIAN_CURSE;10;0'
+  pvpOff:
+    type: player_command
+    conditions:
+    - '%main_command% == /pvpoff'
+    - '%player% == itssos'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'to_all: player_command_as_op: pvp off'
+      - 'to_all: message: &f&l¡El &c&lPVP &f&lha sido &c&lDESACTIVADO!'
+      - 'to_all: playsound: ENTITY_ELDER_GUARDIAN_CURSE;10;0'

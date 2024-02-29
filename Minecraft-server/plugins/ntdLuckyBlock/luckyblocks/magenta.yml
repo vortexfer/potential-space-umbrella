@@ -1,0 +1,96 @@
+texture: 1f23685c697ba55edda425ecf1fec72feeb7bb985c6506b2cef070515e4e5492
+name: '&dMagenta LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '1':
+  - 'ITEM : MUSIC_DISC_CAT : 1 : 0'
+  - 'ITEM : SNORT_POTTERY_SHERD : 37 : 0'
+  '2':
+  - 'ENTITY : SHULKER_BULLET : 4'
+  - 'ITEM : BAMBOO_SIGN : 16 : 0'
+  - 'ITEM : JUNGLE_FENCE : 8 : 0'
+  '3':
+  - 'ITEM : STRIPPED_MANGROVE_WOOD : 8 : 0'
+  - 'ITEM : GHAST_TEAR : 62 : 0'
+  - 'ITEM : NETHERITE_UPGRADE_SMITHING_TEMPLATE : 56 : 0'
+  '4':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : WHITE_STAINED_GLASS : 8 : 0'
+  '5':
+  - 'ENTITY : BEE : 3'
+  - 'ITEM : CREEPER_HEAD : 64 : 0'
+  - 'ENTITY : FROG : 2'
+  '6':
+  - 'ITEM : CARVED_PUMPKIN : 8 : 0'
+  '7':
+  - 'ITEM : STRIPPED_BIRCH_LOG : 32 : 0'
+  - 'ITEM : DIAMOND : 36 : 0'
+  '8':
+  - 'ITEM : VERDANT_FROGLIGHT : 64 : 0'
+  '9':
+  - 'ITEM : COOKED_BEEF : 64 : 0'
+  - 'ITEM : PAPER : 41 : 0'
+  '10':
+  - 'ENTITY : CAT : 2'
+  - 'ITEM : TWISTING_VINES : 8 : 0'
+  - 'ENTITY : MINECART : 2'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 4'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 3'
+  - 'ITEM : SUNFLOWER : 16 : 0'
+  '12':
+  - 'LUCKY_BLOCK_ITEM : LIME : 1'
+  - 'ITEM : IRON_HELMET : 1 : 0'
+  '13':
+  - 'ITEM : SPRUCE_BOAT : 1 : 0'
+  - 'ENTITY : GLOW_ITEM_FRAME : 4'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 4'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 3'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '15':
+  - 'ENTITY : GLOW_SQUID : 2'
+  '16':
+  - 'ITEM : COMMAND_BLOCK : 32 : 0'
+  '17':
+  - 'ITEM : MOSSY_COBBLESTONE : 8 : 0'
+  - 'ITEM : MANGROVE_PRESSURE_PLATE : 32 : 0'
+  - 'ITEM : MAGMA_CREAM : 64 : 0'
+  - 'ITEM : ACACIA_WOOD : 8 : 0'
+  '18':
+  - 'ITEM : WHITE_BED : 1 : 0'
+  '19':
+  - 'ENTITY : GIANT : 4'
+  - 'ENTITY : IRON_GOLEM : 4'
+  '20':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : MINECART_TNT : 4'
+  - 'ITEM : POLISHED_DEEPSLATE_WALL : 32 : 0'
+  '21':
+  - 'ENTITY : FIREBALL : 1'
+  - 'ITEM : MUSIC_DISC_5 : 1 : 0'
+  - 'ENTITY : WARDEN : 1'
+  '22':
+  - 'ITEM : PUMPKIN_PIE : 15 : 0'
+  - 'ENTITY : VILLAGER : 4'
+  '23':
+  - 'ITEM : DANDELION : 64 : 0'
+  - 'ENTITY : ENDER_DRAGON : 3'
+  - 'ENTITY : PILLAGER : 3'
+  - 'ITEM : FLOWER_POT : 8 : 0'
+  '24':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 2'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'SPECIAL : PIG : 4'

@@ -1,0 +1,159 @@
+texture: c8e16e7ff13d3e30a3a2b835a86fd05ecbc08909f6056de1646fe25b3def9584
+name: '&fWhite LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : MUD_BRICK_SLAB : 8 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '1':
+  - 'ITEM : NOTE_BLOCK : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 4'
+  - 'ITEM : GLOW_INK_SAC : 34 : 0'
+  '2':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : MOSSY_COBBLESTONE_SLAB : 16 : 0'
+  '3':
+  - 'ITEM : DIORITE_SLAB : 16 : 0'
+  - 'ITEM : CHERRY_PLANKS : 8 : 0'
+  '4':
+  - 'ENTITY : VILLAGER : 4'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 1'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 2'
+  '5':
+  - 'ITEM : IRON_AXE : 1 : 0'
+  - 'ITEM : BLUE_BANNER : 16 : 0'
+  '6':
+  - 'ITEM : CHICKEN : 4 : 0'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 4'
+  '7':
+  - 'ITEM : BUDDING_AMETHYST : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  '8':
+  - 'ENTITY : WITHER_SKULL : 3'
+  - 'ITEM : NETHERITE_SCRAP : 8 : 0'
+  - 'ITEM : YELLOW_CONCRETE_POWDER : 64 : 0'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : GREEN : 1'
+  - 'ENTITY : MINECART_HOPPER : 2'
+  '10':
+  - 'ITEM : MUSIC_DISC_MALL : 1 : 0'
+  '11':
+  - 'ITEM : ENCHANTED_GOLDEN_APPLE : 51 : 0'
+  - 'ENTITY : PIG : 4'
+  '12':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : MOSS_CARPET : 64 : 0'
+  '13':
+  - 'ITEM : PURPLE_CARPET : 64 : 0'
+  '14':
+  - 'ENTITY : LLAMA_SPIT : 3'
+  - 'ITEM : DROWNED_SPAWN_EGG : 35 : 0'
+  '15':
+  - 'ENTITY : IRON_GOLEM : 4'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  '16':
+  - 'ENTITY : DROWNED : 1'
+  - 'ENTITY : TRADER_LLAMA : 1'
+  '17':
+  - 'ITEM : CRIMSON_FENCE_GATE : 16 : 0'
+  - 'ITEM : ENDER_DRAGON_SPAWN_EGG : 33 : 0'
+  - 'ITEM : LAPIS_ORE : 8 : 0'
+  '18':
+  - 'ITEM : GOLD_BLOCK : 16 : 0'
+  '19':
+  - 'ITEM : DEEPSLATE_TILES : 64 : 0'
+  - 'ENTITY : STRIDER : 3'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '20':
+  - 'ITEM : SPYGLASS : 1 : 0'
+  - 'ITEM : GREEN_WOOL : 16 : 0'
+  '21':
+  - 'ITEM : DEAD_HORN_CORAL_BLOCK : 64 : 0'
+  - 'ENTITY : ALLAY : 1'
+  - 'ITEM : SALMON_SPAWN_EGG : 26 : 0'
+  '22':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : PURPLE_GLAZED_TERRACOTTA : 16 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : PINK : 2'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '24':
+  - 'ITEM : MAGENTA_CONCRETE : 64 : 0'
+  '25':
+  - 'ITEM : REDSTONE_ORE : 64 : 0'
+  '26':
+  - 'ENTITY : ZOMBIE : 3'
+  - 'ITEM : CRIMSON_ROOTS : 8 : 0'
+  - 'ENTITY : SNOWBALL : 3'
+  '27':
+  - 'ENTITY : GUARDIAN : 2'
+  - 'ITEM : WARPED_BUTTON : 8 : 0'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 4'
+  - 'ITEM : GRAY_TERRACOTTA : 64 : 0'
+  '29':
+  - 'ITEM : GOLD_NUGGET : 19 : 0'
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 1'
+  '30':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : ENDER_PEARL : 1'
+  '31':
+  - 'ITEM : ACACIA_PRESSURE_PLATE : 64 : 0'
+  '32':
+  - 'ITEM : ENCHANTING_TABLE : 32 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ENTITY : SPECTRAL_ARROW : 4'
+  '33':
+  - 'ITEM : GOLDEN_CHESTPLATE : 1 : 0'
+  - 'ENTITY : GLOW_ITEM_FRAME : 2'
+  - 'ENTITY : EVOKER_FANGS : 2'
+  '34':
+  - 'ITEM : BROWN_BED : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : ORANGE : 3'
+  '35':
+  - 'ITEM : FLOWERING_AZALEA : 32 : 0'
+  - 'ITEM : MEDIUM_AMETHYST_BUD : 32 : 0'
+  - 'ENTITY : SHULKER_BULLET : 1'
+  '36':
+  - 'ITEM : MANGROVE_PROPAGULE : 8 : 0'
+  - 'SPECIAL : PIG : 22'
+  - 'ITEM : EMERALD_ORE : 16 : 0'
+  '37':
+  - 'ITEM : GREEN_CARPET : 16 : 0'
+  '38':
+  - 'ENTITY : HOGLIN : 2'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 1'
+  '39':
+  - 'ITEM : CRIMSON_SIGN : 16 : 0'
+  - 'ITEM : FLINT : 51 : 0'
+  '40':
+  - 'ITEM : VERDANT_FROGLIGHT : 32 : 0'
+  - 'ENTITY : SHULKER : 1'
+  '41':
+  - 'ENTITY : WARDEN : 4'
+  '42':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : EVOKER : 4'
+  - 'ENTITY : EXPERIENCE_ORB : 2'
+  '43':
+  - 'ENTITY : WITHER_SKELETON : 2'
+  - 'ENTITY : VILLAGER : 4'
+  '44':
+  - 'ENTITY : CHEST_BOAT : 3'
+  - 'ITEM : BLUE_STAINED_GLASS : 32 : 0'
+  '45':
+  - 'ITEM : POLISHED_ANDESITE : 64 : 0'
+  '46':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : BLUE_GLAZED_TERRACOTTA : 16 : 0'
+  - 'ITEM : NETHERITE_SHOVEL : 1 : 0'

@@ -1,0 +1,92 @@
+texture: 6cfb4ebc3ba4fec04d8978a1660bb7c98e96342ff2a238ada9df2f74bf032b40
+name: '&5Purple LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : CRIMSON_PRESSURE_PLATE : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : PINK : 2'
+  '1':
+  - 'ENTITY : COW : 4'
+  - 'ITEM : BAMBOO : 8 : 0'
+  '2':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '3':
+  - 'LUCKY_BLOCK_ITEM : BLUE : 2'
+  '4':
+  - 'ENTITY : SPECTRAL_ARROW : 3'
+  - 'ITEM : MANGROVE_FENCE_GATE : 16 : 0'
+  - 'ITEM : MOSS_BLOCK : 8 : 0'
+  '5':
+  - 'ITEM : CRIMSON_ROOTS : 8 : 0'
+  - 'ENTITY : GIANT : 4'
+  '6':
+  - 'ENTITY : HUSK : 1'
+  '7':
+  - 'ENTITY : STRIDER : 2'
+  - 'ITEM : COBBLESTONE : 64 : 0'
+  - 'ITEM : WARPED_FENCE_GATE : 8 : 0'
+  - 'ENTITY : VILLAGER : 4'
+  '8':
+  - 'ITEM : WITHER_SKELETON_SKULL : 16 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '9':
+  - 'ENTITY : SLIME : 3'
+  - 'ENTITY : PIG : 1'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 2'
+  '11':
+  - 'LUCKY_BLOCK_ITEM : RED : 2'
+  - 'ITEM : CAMEL_SPAWN_EGG : 49 : 0'
+  - 'ENTITY : MULE : 1'
+  '12':
+  - 'ENTITY : MARKER : 2'
+  - 'ENTITY : SALMON : 2'
+  - 'ITEM : END_PORTAL_FRAME : 16 : 0'
+  '13':
+  - 'ENTITY : PAINTING : 2'
+  - 'ITEM : CYAN_DYE : 54 : 0'
+  '14':
+  - 'ITEM : MUSIC_DISC_STRAD : 1 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : IRON_GOLEM : 1'
+  - 'ITEM : MANGROVE_FENCE : 64 : 0'
+  '15':
+  - 'ENTITY : ENDER_SIGNAL : 1'
+  - 'ITEM : POTATO : 22 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  '16':
+  - 'ENTITY : PIGLIN : 1'
+  '17':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 2'
+  - 'SPECIAL : PIG : 20'
+  - 'ENTITY : MINECART_COMMAND : 2'
+  '18':
+  - 'ITEM : CYAN_STAINED_GLASS_PANE : 8 : 0'
+  - 'SPECIAL : PIG : 11'
+  '19':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : NETHER_BRICK_SLAB : 64 : 0'
+  - 'ENTITY : BAT : 4'
+  - 'ITEM : DEBUG_STICK : 1 : 0'
+  '20':
+  - 'ENTITY : SNIFFER : 2'
+  - 'ITEM : FLINT : 28 : 0'
+  '21':
+  - 'ITEM : DARK_OAK_BUTTON : 16 : 0'
+  - 'ENTITY : TURTLE : 1'
+  - 'ITEM : SOUL_SAND : 32 : 0'
+  '22':
+  - 'ENTITY : ITEM_FRAME : 2'
+  - 'ITEM : RIB_ARMOR_TRIM_SMITHING_TEMPLATE : 39 : 0'
+  '23':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 1'
+  - 'ITEM : SOUL_CAMPFIRE : 64 : 0'
